@@ -6,4 +6,6 @@ class Team {
   }
 
   pointHandler() {}
+
+  roundHandler() {}
 }

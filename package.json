@@ -1,0 +1,27 @@
+{
+  "name": "truco-counter",
+  "version": "1.0.0",
+  "description": "small app to count card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaum97/Truco-Counter.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ChilenoSika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaum97/Truco-Counter/issues"
+  },
+  "homepage": "https://github.com/Jaum97/Truco-Counter#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
